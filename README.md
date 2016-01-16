@@ -9,3 +9,5 @@ Required stories: Calculate tip amount from total bill input.
 Optional stories = Gestural UI, Custom keypad, Custom view controllers with shared data, custom tip calculation math
 
 Walkthrough of all user stories:
+
+![Video Walkthrough](Tipsy.gif)
